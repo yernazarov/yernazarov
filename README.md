@@ -20,5 +20,5 @@
 
 ### 📫 Contact Me
 
-- [Email] (yernazarovz@gmail.com)
+- [Email](yernazarovz@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zhandos-yernazarov-b739801a7/)
