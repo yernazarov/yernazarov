@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-22 years old Java backend developer. Skilled in using Spring framework. Solved 200+ algorithmic problems in Leetcode and participated in several programming competitions. Languages: Kazakh, Russian, English (IELTS 7.0), Turkish
+Java backend developer. Skilled in using Spring framework. Solved 200+ algorithmic problems in Leetcode and participated in several programming competitions. Languages: Kazakh, Russian, English (IELTS 7.0), Turkish
 
 ### 💻 Tech Stack
 
